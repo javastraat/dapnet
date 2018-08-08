@@ -1,0 +1,156 @@
+73
+807
+88
+ACSB
+AGC
+A-Index
+AM
+AMTOR
+Antenna Gain
+Antenna Party
+AOS
+APRS
+ARRL
+ATV
+AWG
+Barefoot
+BFO
+Bird
+Birdie
+Boat Anchor
+BPSK
+Brass Pounder
+Bug
+Bureau Buro
+Channel Guard
+CBA
+CC&R's
+CG
+Coax
+CTCSS
+CW
+DCS
+DE
+Deviation
+Dielectric
+Dipole
+DR
+Driven Element
+DSSB
+DSW
+DTMF
+Dummy Load
+DX
+DXCC
+DXpedition
+EME
+ERP
+Eyeball
+FB
+Field Day
+Fist
+FM
+FOC
+Gain
+Green Stamp
+Harmonic
+HF
+Homebrew
+Hz
+Iambic
+Intermod
+IOTA
+IQ?
+IRC
+J-Pole
+Kc
+Key
+Keyer
+KHz
+K-Index
+LID
+LIon
+LOS
+Lowfer
+LSB
+Machine
+Matchbox
+Mc
+Medfer
+MHz
+MPR
+MUF
+NB
+NCS
+NiCd
+NiMH
+N-P Junction
+NPN
+NTS
+OM
+OO
+Paddles
+Patch
+PEP
+Phone Patch
+P-N Junction
+Pink Ticket
+PL
+PM
+PNP
+PSK31
+PTT
+Q
+QCWA
+Q-Signals
+QSL Bureau
+QSL Card
+QSL Manager
+Repeater
+RF
+RF Burn
+Rig
+RIT
+RST
+RTTY
+Rubber Duck
+RX
+SASE
+SFI
+Simplex
+Simplex Repeater
+Slug
+Solar Flux Index
+Special Event
+SSB
+Straight Key
+Switching Power Supply
+SWL
+SWR
+Talk-Around
+Ticket
+Transistor
+TX
+USB
+UTC
+VEC
+VOX
+WAC
+Wallpaper
+WAN
+WARC
+WAS
+WOLF
+Wouff Hong
+WWV
+WWVH
+WX
+XCVR
+XIT
+XYL
+Yagi
+YF
+YL
+Zed
+Zulu
+
