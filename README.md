@@ -94,7 +94,7 @@ sudo pistar-dapnetapi $1 “$TEXT”
 
 
 
-Here you can download all scripts and txt files in one zip file
+Here you can download all scripts and txt files.
 
 73, Happy paging :) 
 
